@@ -1,7 +1,7 @@
 /*
   Keypad Controller - Custom 3x3 + Extra Keys (*, 0, #, R)
   Author: Adhithyan S
-  GitHub: https://github.com/<your-username>/<your-repo-name>
+  GitHub: https://github.com/electroid-in/Arduino-Keypad-Controller/blob/main/KeypadController.ino
 
   Description:
     This Arduino sketch interfaces with a custom keypad consisting of a 3x3 matrix
@@ -162,3 +162,4 @@ void loop() {
     delay(200);
   }
 }
+
